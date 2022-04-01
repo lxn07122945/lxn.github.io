@@ -12,7 +12,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/1648620355686.jpg',
-  projectName: 'lxn07122945.github.io',
+  projectName: 'lxn.github.io',
   organizationName: 'lxn07122945',
   trailingSlash: false,
   deploymentBranch: 'main',
@@ -57,7 +57,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://lxn07122945.github.io/',
             label: 'GitHub',
             position: 'right',
           },
