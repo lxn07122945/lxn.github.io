@@ -8,7 +8,7 @@ const config = {
   title: 'My Blog',
   tagline: 'XiangnanLiu is cool',
   url: 'https://lxn07122945.github.io',
-  baseUrl: '/',
+  baseUrl: '/lxn07122945.github.io',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/1648620355686.jpg',
