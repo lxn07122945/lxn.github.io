@@ -1,6 +1,7 @@
 // @ts-check
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const { mainModule } = require('process');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -14,7 +15,7 @@ const config = {
   projectName: 'lxn07122945.github.io',
   organizationName: 'lxn07122945',
   trailingSlash: false,
-
+  deploymentBranch: 'main',
   presets: [
     [
       'classic',
