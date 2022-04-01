@@ -7,7 +7,7 @@
     "start": "docusaurus start",
     "build": "rm -rf ../docs && docusaurus build && mv ./build ../docs",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
+    "deploy": "GIT_USER=lxn07122945 USE_SSH=true docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
