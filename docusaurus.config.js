@@ -15,7 +15,7 @@ const config = {
   projectName: 'lxn07122945.github.io',
   organizationName: 'lxn07122945',
   trailingSlash: false,
-  deploymentBranch: 'main',
+  deploymentBranch: 'deploy',
   presets: [
     [
       'classic',
