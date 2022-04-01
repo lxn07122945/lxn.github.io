@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'My Blog',
   tagline: 'XiangnanLiu is cool',
   url: 'https://lxn07122945.github.io',
-  baseUrl: '/lxn07122945.github.io/',
+  baseUrl: '/lxn.github.io/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/1648620355686.jpg',
-  projectName: 'lxn07122945.github.io',
+  projectName: 'lxn.github.io',
   organizationName: 'lxn07122945',
   trailingSlash: false,
-  deploymentBranch: 'deploy',
+  // deploymentBranch: 'deploy',
   presets: [
     [
       '@docusaurus/preset-classic',
