@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lxn07122945.github.io/lxn.github.io/blog</id>
-    <title>My Blog Blog</title>
+    <title>My Space Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lxn07122945.github.io/lxn.github.io/blog"/>
-    <subtitle>My Blog Blog</subtitle>
-    <icon>https://lxn07122945.github.io/lxn.github.io/img/1648620355686.jpg</icon>
+    <subtitle>My Space Blog</subtitle>
+    <icon>https://lxn07122945.github.io/lxn.github.io/https://github.com/lxn07122945.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>

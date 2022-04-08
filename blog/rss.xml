@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>My Blog Blog</title>
+        <title>My Space Blog</title>
         <link>https://lxn07122945.github.io/lxn.github.io/blog</link>
-        <description>My Blog Blog</description>
+        <description>My Space Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
