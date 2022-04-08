@@ -7,7 +7,7 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "GIT_USER=lxn07122945 USE_SSH=true DEPLOYMENT_BRANCH=develop yarn deploy ",
+    "deploy": "GIT_USER=lxn07122945 USE_SSH=true DEPLOYMENT_BRANCH=develop docusaurus deploy ",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
